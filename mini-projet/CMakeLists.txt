@@ -3,5 +3,7 @@ project(mini_projet C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(mini_projet main.c
-        repertoire.c)
+add_executable(mini_projet src/main.c
+        src/repertoire.c
+        src/include/valideSaisie.h
+        src/valideSaisie.c)
