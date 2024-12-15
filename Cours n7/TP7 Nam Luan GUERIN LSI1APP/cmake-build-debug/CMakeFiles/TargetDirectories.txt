@@ -1,3 +1,0 @@
-C:/Users/namlu/Documents/Ecole/C++/Cours n7/TP7 Nam Luan GUERIN LSI1APP/cmake-build-debug/CMakeFiles/TP7_Nam_Luan_GUERIN_LSI1APP.dir
-C:/Users/namlu/Documents/Ecole/C++/Cours n7/TP7 Nam Luan GUERIN LSI1APP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/namlu/Documents/Ecole/C++/Cours n7/TP7 Nam Luan GUERIN LSI1APP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

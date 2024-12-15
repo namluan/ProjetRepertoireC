@@ -1,3 +1,0 @@
-C:/Users/namlu/Documents/Ecole/C++/mini-projet/cmake-build-debug/CMakeFiles/mini_projet.dir
-C:/Users/namlu/Documents/Ecole/C++/mini-projet/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/namlu/Documents/Ecole/C++/mini-projet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

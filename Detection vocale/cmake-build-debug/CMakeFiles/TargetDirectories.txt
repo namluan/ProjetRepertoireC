@@ -1,3 +1,0 @@
-C:/Users/namlu/Documents/Ecole/C++/Detection vocale/cmake-build-debug/CMakeFiles/Detection_vocale.dir
-C:/Users/namlu/Documents/Ecole/C++/Detection vocale/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/namlu/Documents/Ecole/C++/Detection vocale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
