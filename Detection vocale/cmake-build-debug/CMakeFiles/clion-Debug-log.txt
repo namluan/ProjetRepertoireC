@@ -1,0 +1,15 @@
+C:\Users\namlu\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/namlu/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\namlu\Documents\Ecole\C++\Detection vocale" -B "C:\Users\namlu\Documents\Ecole\C++\Detection vocale\cmake-build-debug"
+CMake Error at CMakeLists.txt:9 (add_subdirectory):
+  The source directory
+
+    C:/Users/namlu/Documents/Ecole/C++/Detection vocale/sphinxbase
+
+  does not contain a CMakeLists.txt file.
+
+
+CMake Error at CMakeLists.txt:10 (add_subdirectory):
+  add_subdirectory given source "C:/Users/namlu/Documents/Ecole/C++/Detection
+  vocale/pocketsphinx" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
